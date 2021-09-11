@@ -7,6 +7,8 @@
 // @match        https://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @updateURL    https://github.com/yamatohagi/suScriptbeta/raw/main/New%20sugoi.user.js
+// @downloadURL  https://github.com/yamatohagi/suScriptbeta/raw/main/New%20sugoi.user.js
 // ==/UserScript==
 let mwurl = location.href
 console.log(mwurl);
